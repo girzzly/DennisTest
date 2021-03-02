@@ -13,4 +13,5 @@ def function1:
 
 
 def function4:
-    
+    d=5
+    print(d)
