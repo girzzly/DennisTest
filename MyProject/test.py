@@ -10,3 +10,8 @@ def function1:
     b=2
     c = a+b
     print(c)
+
+
+def function4:
+    d=5
+    print(d)
